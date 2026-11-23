@@ -1,0 +1,241 @@
+{
+    "NODE_WORD": "horloge",
+    "NODE_POS": [],
+    "NODE_FREQ": 1,
+    "TOTAL_TOK": 1296,
+    "METRIC": "ΔP",
+    "COLL_POS": [],
+    "WINDOW_SIZE": [
+        5,
+        5
+    ],
+    "LANG": "fr",
+    "CASE_SENSITIVE": false,
+    "MIN_COFREQ": 0.0,
+    "LEFT_COLLOCATES": [
+        {
+            "collocate": "passants",
+            "strength": 1.2313782131597593,
+            "pstn": -5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "apercevaient",
+            "strength": 1.2313782131597593,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "centaines",
+            "strength": 1.2313782131597593,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "vérité",
+            "strength": 1.2313782131597593,
+            "pstn": -5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "art",
+            "strength": 1.2313782131597593,
+            "pstn": -4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "fabriquer",
+            "strength": 1.2313782131597593,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "mémoire",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "où",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "toutes",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "atelier",
+            "strength": 0.8646524218176747,
+            "pstn": -5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "des",
+            "strength": 0.8140973234248573,
+            "pstn": -2.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "des",
+            "strength": 0.7686217868402409,
+            "pstn": -2.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "c'était",
+            "strength": 0.7686217868402409,
+            "pstn": -3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "que",
+            "strength": 0.4979266304755899,
+            "pstn": -2.0,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "les",
+            "strength": 0.39147838078140124,
+            "pstn": -1.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "l'",
+            "strength": 0.3274088481371928,
+            "pstn": -5.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "d'",
+            "strength": 0.30586536052072244,
+            "pstn": -1.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "de",
+            "strength": 0.0850851232197723,
+            "pstn": -3.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": ",",
+            "strength": 0.04887335712450005,
+            "pstn": -4.0,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": "la",
+            "strength": 0.0,
+            "pstn": -3.0,
+            "pos": "DET"
+        }
+    ],
+    "RIGHT_COLLOCATES": [
+        {
+            "collocate": "tailles",
+            "strength": 1.1941842923145678,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "témoins",
+            "strength": 1.1941842923145678,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "aussi",
+            "strength": 1.1941842923145678,
+            "pstn": 3.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "celui",
+            "strength": 1.1941842923145678,
+            "pstn": 5.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "unisson",
+            "strength": 1.1941842923145678,
+            "pstn": 5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "toutes",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "été",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "avaient",
+            "strength": 0.8864094707669026,
+            "pstn": 1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "semblaient",
+            "strength": 0.8864094707669026,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "battre",
+            "strength": 0.8864094707669026,
+            "pstn": 2.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": ":",
+            "strength": 0.8058157076854324,
+            "pstn": 4.0,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": "à",
+            "strength": 0.5805763885597486,
+            "pstn": 3.5,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "mais",
+            "strength": 0.5786346492192374,
+            "pstn": 2.0,
+            "pos": "CCONJ"
+        },
+        {
+            "collocate": "les",
+            "strength": 0.48929789727225065,
+            "pstn": 4.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "l'",
+            "strength": 0.43552750685588765,
+            "pstn": 4.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "de",
+            "strength": 0.42967726378158977,
+            "pstn": 3.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": ",",
+            "strength": 0.0,
+            "pstn": 1.0,
+            "pos": "PUNCT"
+        }
+    ]
+}

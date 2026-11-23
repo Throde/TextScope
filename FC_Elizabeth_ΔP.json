@@ -1,0 +1,688 @@
+{
+    "NODE_WORD": "Elizabeth",
+    "NODE_POS": [],
+    "NODE_FREQ": 632,
+    "TOTAL_TOK": 142802,
+    "METRIC": "ΔP",
+    "COLL_POS": [
+        "VERB",
+        "VBN",
+        "VBZ",
+        "VB",
+        "VBD",
+        "VBP",
+        "VBG"
+    ],
+    "WINDOW_SIZE": [
+        5,
+        5
+    ],
+    "LANG": "en",
+    "CASE_SENSITIVE": true,
+    "USE_LEMMA": false,
+    "MIN_COFREQ": 0.002,
+    "LEFT_COLLOCATES": [
+        {
+            "collocate": "reminded",
+            "strength": 1.0,
+            "pstn": -1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "rose",
+            "strength": 0.9562830886854508,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "cried",
+            "strength": 0.9337076687568768,
+            "pstn": -1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "threw",
+            "strength": 0.8847751869418898,
+            "pstn": -1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "replied",
+            "strength": 0.7998428985148893,
+            "pstn": -1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "occurred",
+            "strength": 0.758101735523004,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "said",
+            "strength": 0.7077131688626401,
+            "pstn": -1.2708333333333333,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "talk",
+            "strength": 0.6644790091481518,
+            "pstn": -2.3333333333333335,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "ask",
+            "strength": 0.6356720089966982,
+            "pstn": -3.3333333333333335,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "happened",
+            "strength": 0.6009941994828275,
+            "pstn": -3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "walked",
+            "strength": 0.5414349404644532,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "gave",
+            "strength": 0.4797640118713497,
+            "pstn": -2.6666666666666665,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "brought",
+            "strength": 0.4713961647884658,
+            "pstn": -5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "read",
+            "strength": 0.45533402325971356,
+            "pstn": -2.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "asked",
+            "strength": 0.4475811886601842,
+            "pstn": -1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "thought",
+            "strength": 0.44465865037375674,
+            "pstn": -1.2,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "speak",
+            "strength": 0.42777664459709835,
+            "pstn": -3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "looked",
+            "strength": 0.3868886749857159,
+            "pstn": -3.6666666666666665,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "leave",
+            "strength": 0.38469706227050393,
+            "pstn": -1.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "let",
+            "strength": 0.38469706227050393,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "made",
+            "strength": 0.37601830866720726,
+            "pstn": -2.4,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "gone",
+            "strength": 0.31504085871069676,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "left",
+            "strength": 0.294421654652604,
+            "pstn": -3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "take",
+            "strength": 0.2382880433108442,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "go",
+            "strength": 0.15119685007032593,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "make",
+            "strength": 0.11307018981243652,
+            "pstn": -3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "do",
+            "strength": 0.0,
+            "pstn": -4.5,
+            "pos": "VERB"
+        }
+    ],
+    "RIGHT_COLLOCATES": [
+        {
+            "collocate": "oppose",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "colouring",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "smiling",
+            "strength": 0.8991987611709263,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "summoned",
+            "strength": 0.8991918652590138,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "coloured",
+            "strength": 0.8991918652590138,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "wondered",
+            "strength": 0.8864237933139331,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "tried",
+            "strength": 0.8502978524790018,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "thanked",
+            "strength": 0.8324901332591621,
+            "pstn": 1.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "perceive",
+            "strength": 0.8324901332591621,
+            "pstn": 3.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "blushed",
+            "strength": 0.8324901332591621,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "laughed",
+            "strength": 0.8232479316134526,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "listened",
+            "strength": 0.7962238450432424,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "longed",
+            "strength": 0.7824446486285795,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "finished",
+            "strength": 0.7824446486285795,
+            "pstn": 4.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "forced",
+            "strength": 0.7614051920120974,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "quit",
+            "strength": 0.7613912448927324,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "laughing",
+            "strength": 0.7613912448927324,
+            "pstn": 3.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "loved",
+            "strength": 0.7613912448927324,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "observe",
+            "strength": 0.7613912448927324,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "related",
+            "strength": 0.7484780374394027,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "caught",
+            "strength": 0.742303081903622,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "increased",
+            "strength": 0.742303081903622,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "feeling",
+            "strength": 0.7363231248148776,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "help",
+            "strength": 0.7248711108044539,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "agreed",
+            "strength": 0.7248374872472317,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "perceived",
+            "strength": 0.7248374872472317,
+            "pstn": 1.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "hoped",
+            "strength": 0.7139729745781157,
+            "pstn": 1.3333333333333333,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "recollected",
+            "strength": 0.7087342306000324,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "felt",
+            "strength": 0.6939092290286393,
+            "pstn": 1.0714285714285714,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "expected",
+            "strength": 0.693830435254907,
+            "pstn": 2.6666666666666665,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "struck",
+            "strength": 0.6937910297764848,
+            "pstn": 2.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "smiled",
+            "strength": 0.6428347720155714,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "looked",
+            "strength": 0.6401016779445177,
+            "pstn": 1.125,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "saw",
+            "strength": 0.6368677483992047,
+            "pstn": 1.1818181818181819,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "meant",
+            "strength": 0.6354332950333849,
+            "pstn": 3.3333333333333335,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "sitting",
+            "strength": 0.6318072059987502,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "began",
+            "strength": 0.6248159258760753,
+            "pstn": 2.1666666666666665,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "receiving",
+            "strength": 0.6213212907709348,
+            "pstn": 4.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "fixed",
+            "strength": 0.6113240431922278,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "turned",
+            "strength": 0.6065249570838682,
+            "pstn": 2.25,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "found",
+            "strength": 0.601832945741892,
+            "pstn": 1.3333333333333333,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "walked",
+            "strength": 0.6018014140550642,
+            "pstn": 2.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "answered",
+            "strength": 0.5956431378817246,
+            "pstn": 2.3333333333333335,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "attended",
+            "strength": 0.5838378275633413,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "walking",
+            "strength": 0.5838378275633413,
+            "pstn": 2.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "received",
+            "strength": 0.5804744520747576,
+            "pstn": 1.2,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "believed",
+            "strength": 0.5781912903323962,
+            "pstn": 2.3333333333333335,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "bear",
+            "strength": 0.575395247469325,
+            "pstn": 3.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "read",
+            "strength": 0.5672836836381855,
+            "pstn": 1.6666666666666667,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "expressed",
+            "strength": 0.5672648738871514,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "took",
+            "strength": 0.563347652528988,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "called",
+            "strength": 0.5568893570432903,
+            "pstn": 2.3333333333333335,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "joined",
+            "strength": 0.5518486996890075,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "find",
+            "strength": 0.5481973338480369,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "knew",
+            "strength": 0.5445652213847716,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "taken",
+            "strength": 0.5305512632377819,
+            "pstn": 4.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "appeared",
+            "strength": 0.5305512632377819,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "consider",
+            "strength": 0.5305512632377819,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "left",
+            "strength": 0.5206584239394457,
+            "pstn": 3.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "had",
+            "strength": 0.5091186403075747,
+            "pstn": 1.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "heard",
+            "strength": 0.5086860334867619,
+            "pstn": 1.8,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "look",
+            "strength": 0.5049466012132078,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "gave",
+            "strength": 0.49899372861844166,
+            "pstn": 2.6666666666666665,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "given",
+            "strength": 0.4950916895047634,
+            "pstn": 4.666666666666667,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "see",
+            "strength": 0.49330220532102415,
+            "pstn": 3.625,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "asked",
+            "strength": 0.4764702739356427,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "made",
+            "strength": 0.4661023206585124,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "spoke",
+            "strength": 0.4608964053825036,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "thought",
+            "strength": 0.42591148366163406,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "passed",
+            "strength": 0.38371066438638474,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "went",
+            "strength": 0.36578876698421525,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "seemed",
+            "strength": 0.36578876698421525,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "told",
+            "strength": 0.35893556717822567,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "added",
+            "strength": 0.3489603131887531,
+            "pstn": 2.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "said",
+            "strength": 0.32088870707849754,
+            "pstn": 2.6,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "make",
+            "strength": 0.3137540042382959,
+            "pstn": 3.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "hope",
+            "strength": 0.2898954069579113,
+            "pstn": 2.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "go",
+            "strength": 0.26904287780204317,
+            "pstn": 4.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "replied",
+            "strength": 0.25907270228566526,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "give",
+            "strength": 0.21724352022354607,
+            "pstn": 4.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "have",
+            "strength": 0.18663662652603258,
+            "pstn": 3.25,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "think",
+            "strength": 0.048402650340128195,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "know",
+            "strength": 0.0,
+            "pstn": 3.5,
+            "pos": "VERB"
+        }
+    ]
+}

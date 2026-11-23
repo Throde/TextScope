@@ -1,0 +1,965 @@
+{
+    "NODE_WORD": "小火",
+    "NODE_POS": [],
+    "METRIC": "Fisher-exact-test",
+    "COLLOCATE_POS": [
+        "ADV",
+        "NOUN",
+        "PROPN",
+        "VERB",
+        "ADJ"
+    ],
+    "WINDOW_SIZE": [
+        5,
+        5
+    ],
+    "LANG": "zh",
+    "CASE_SENSITIVE": false,
+    "MIN_COFREQ": 0.0025,
+    "LEFT_COLLOCATES": [
+        {
+            "collocate": "夜里",
+            "strength": 1.0,
+            "pstn": -5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "名叫",
+            "strength": 1.0,
+            "pstn": -1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "呜咽声",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "黑洞",
+            "strength": 1.0,
+            "pstn": -4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "暗流",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "低头",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "注视",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "束缚",
+            "strength": 1.0,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "眼泪",
+            "strength": 1.0,
+            "pstn": -5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "汪汪",
+            "strength": 1.0,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "眼神冷漠",
+            "strength": 1.0,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "慢慢",
+            "strength": 1.0,
+            "pstn": -4.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "绕",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "带起",
+            "strength": 1.0,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "劲风",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "誓",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "发光",
+            "strength": 1.0,
+            "pstn": -5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "小径",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "那天",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "看",
+            "strength": 0.9999189046750996,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "盯",
+            "strength": 0.9975448232427115,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "旋转",
+            "strength": 0.9975448232427115,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "水",
+            "strength": 0.9975448232427115,
+            "pstn": -5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "静静",
+            "strength": 0.9975448232427115,
+            "pstn": -4.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "扫视",
+            "strength": 0.9975448232427115,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "来",
+            "strength": 0.9975448232427115,
+            "pstn": -5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "原地",
+            "strength": 0.9926884962094542,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "心",
+            "strength": 0.9926884962094542,
+            "pstn": -1.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "熟悉",
+            "strength": 0.9926884962094542,
+            "pstn": -5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "洒落",
+            "strength": 0.9926884962094542,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "浮现",
+            "strength": 0.9926884962094542,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "发出",
+            "strength": 0.9854833205413526,
+            "pstn": -5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "蛇",
+            "strength": 0.9854833205413526,
+            "pstn": -4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "考验",
+            "strength": 0.9759799441300528,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "爪子",
+            "strength": 0.9759799441300528,
+            "pstn": -5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "一阵",
+            "strength": 0.9759799441300528,
+            "pstn": -3.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "终于",
+            "strength": 0.9759799441300528,
+            "pstn": -2.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "低沉",
+            "strength": 0.9642274313886097,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "要",
+            "strength": 0.9642274313886097,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "光芒",
+            "strength": 0.9159433046913978,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "让",
+            "strength": 0.8490442818952959,
+            "pstn": -1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "兔子",
+            "strength": 0.6991342387659485,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "小",
+            "strength": 0.0,
+            "pstn": -4.0,
+            "pos": "ADJ"
+        }
+    ],
+    "RIGHT_COLLOCATES": [
+        {
+            "collocate": "心跳",
+            "strength": 1.0000000000158644,
+            "pstn": 3.5,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "喊道",
+            "strength": 1.0000000000158644,
+            "pstn": 3.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "红狐",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "狸独",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "徘徊",
+            "strength": 1.0,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "一步步",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "接近",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "下头",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "羞愧",
+            "strength": 1.0,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "地点",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "点头",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "从未",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "忍住",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "沉",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "脑海",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "一片",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "混乱",
+            "strength": 1.0,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "摆脱",
+            "strength": 1.0,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "冷意",
+            "strength": 1.0,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "喘",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "气",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "反应",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "迅速",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "长长",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "地吐",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "树前",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "心生怜悯",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "跑上",
+            "strength": 1.0,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "前去",
+            "strength": 1.0,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "不假思索",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "嘴叼",
+            "strength": 1.0,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "提高",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "警觉",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "一怔",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "当然",
+            "strength": 1.0,
+            "pstn": 5.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "连忙",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "拉",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "后悔",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "飞快",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "感激",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "明白",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "面前",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "感激",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "激动",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "聪明",
+            "strength": 1.0,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "兔子",
+            "strength": 0.9999863732405168,
+            "pstn": 4.25,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "眼中",
+            "strength": 0.9999757696285192,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "立刻",
+            "strength": 0.9999038909384307,
+            "pstn": 3.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "努力",
+            "strength": 0.999761738866503,
+            "pstn": 2.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "小",
+            "strength": 0.9996141456907431,
+            "pstn": 3.25,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "带",
+            "strength": 0.998698902069002,
+            "pstn": 1.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "说道",
+            "strength": 0.998064620575998,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "涌起",
+            "strength": 0.997680094696823,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "问道",
+            "strength": 0.997680094696823,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "低",
+            "strength": 0.997680094696823,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "有些",
+            "strength": 0.997680094696823,
+            "pstn": 4.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "坚定",
+            "strength": 0.997680094696823,
+            "pstn": 1.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "听",
+            "strength": 0.997680094696823,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "这是",
+            "strength": 0.997680094696823,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "审视",
+            "strength": 0.997680094696823,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "意识",
+            "strength": 0.997680094696823,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "再次",
+            "strength": 0.997680094696823,
+            "pstn": 1.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "睁开",
+            "strength": 0.997680094696823,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "开口",
+            "strength": 0.997680094696823,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "微弱",
+            "strength": 0.997680094696823,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "走",
+            "strength": 0.997680094696823,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "穿过",
+            "strength": 0.997680094696823,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "满",
+            "strength": 0.997680094696823,
+            "pstn": 3.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "身上",
+            "strength": 0.997680094696823,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "抬起",
+            "strength": 0.997680094696823,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "勇敢",
+            "strength": 0.997680094696823,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "到",
+            "strength": 0.9962613497349002,
+            "pstn": 2.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "水晶塔",
+            "strength": 0.9930913339059877,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "小心翼翼",
+            "strength": 0.9930913339059877,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "这么",
+            "strength": 0.9930913339059877,
+            "pstn": 4.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "远",
+            "strength": 0.9930913339059877,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "内心",
+            "strength": 0.9930913339059877,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "心里",
+            "strength": 0.9930913339059877,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "心里",
+            "strength": 0.9930913339059877,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "咬紧牙关",
+            "strength": 0.9930913339059877,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "渐渐",
+            "strength": 0.9930913339059877,
+            "pstn": 5.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "猛地",
+            "strength": 0.9930913339059877,
+            "pstn": 4.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "眼睛",
+            "strength": 0.9930913339059877,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "站在",
+            "strength": 0.9930913339059877,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "颤抖",
+            "strength": 0.9930913339059877,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "游",
+            "strength": 0.9862831376353407,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "感受",
+            "strength": 0.9862831376353407,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "最后",
+            "strength": 0.9862831376353407,
+            "pstn": 5.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "一口气",
+            "strength": 0.9862831376353407,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "立刻",
+            "strength": 0.9862831376353407,
+            "pstn": 3.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "受伤",
+            "strength": 0.9862831376353407,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "选择",
+            "strength": 0.9862831376353407,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "更加",
+            "strength": 0.9862831376353407,
+            "pstn": 2.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "时光",
+            "strength": 0.9773033632589286,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "起",
+            "strength": 0.9773033632589286,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "坚定",
+            "strength": 0.9773033632589286,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "终于",
+            "strength": 0.9773033632589286,
+            "pstn": 1.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "恐惧",
+            "strength": 0.9661983719162114,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "一",
+            "strength": 0.9530130895305996,
+            "pstn": 2.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "身体",
+            "strength": 0.9530130895305996,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "起来",
+            "strength": 0.9377910653277888,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "微微",
+            "strength": 0.9377910653277888,
+            "pstn": 1.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "心中",
+            "strength": 0.9205745278277548,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "知道",
+            "strength": 0.9014044378375778,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "缓缓",
+            "strength": 0.9014044378375778,
+            "pstn": 2.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "变得",
+            "strength": 0.9014044378375778,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "发现",
+            "strength": 0.8803205383213079,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "看",
+            "strength": 0.8803205383213079,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "看",
+            "strength": 0.8803205383213079,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "让",
+            "strength": 0.8573614018068653,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "声音",
+            "strength": 0.747505480204739,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "守护者",
+            "strength": 0.747505480204739,
+            "pstn": 5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "月光",
+            "strength": 0.5323663338382226,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "是",
+            "strength": 0.0,
+            "pstn": 4.0,
+            "pos": "VERB"
+        }
+    ]
+}

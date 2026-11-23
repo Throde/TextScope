@@ -1,0 +1,11 @@
+{
+    "language": "en",
+    "style": "classic",
+    "model_paths": {
+        "zh": null,
+        "en": null,
+        "ja": null,
+        "fr": null,
+        "de": null
+    }
+}

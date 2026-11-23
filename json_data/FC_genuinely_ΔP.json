@@ -1,0 +1,177 @@
+{
+    "NODE_WORD": "genuinely",
+    "NODE_POS": [
+        "ADV"
+    ],
+    "NODE_FREQ": 1,
+    "TOTAL_TOK": 106575,
+    "METRIC": "ΔP",
+    "COLL_POS": [],
+    "WINDOW_SIZE": [
+        5,
+        5
+    ],
+    "LANG": "en",
+    "CASE_SENSITIVE": true,
+    "MIN_COFREQ": 0.003,
+    "LEFT_COLLOCATES": [
+        {
+            "collocate": "decay",
+            "strength": 1.440869603930269,
+            "pstn": -5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "capitalism",
+            "strength": 1.440869603930269,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "pictorial",
+            "strength": 1.440869603930269,
+            "pstn": -3.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "pull",
+            "strength": 1.440869603930269,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "Beethoven",
+            "strength": 1.440869603930269,
+            "pstn": -2.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "color",
+            "strength": 1.0,
+            "pstn": -5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "which",
+            "strength": 0.43552898875159973,
+            "pstn": -3.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "was",
+            "strength": 0.2385215686232486,
+            "pstn": -1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "is",
+            "strength": 0.23772622388519093,
+            "pstn": -1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "of",
+            "strength": 0.10834732608459509,
+            "pstn": -4.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "''",
+            "strength": 0.10455661271444214,
+            "pstn": -5.0,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": "and",
+            "strength": 0.030522619865910004,
+            "pstn": -1.0,
+            "pos": "CCONJ"
+        },
+        {
+            "collocate": ",",
+            "strength": 0.0,
+            "pstn": -3.0,
+            "pos": "PUNCT"
+        }
+    ],
+    "RIGHT_COLLOCATES": [
+        {
+            "collocate": "peaceful",
+            "strength": 1.2649612987798033,
+            "pstn": 4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "coexistence",
+            "strength": 1.2649612987798033,
+            "pstn": 5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "moments",
+            "strength": 1.2649612987798033,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "capable",
+            "strength": 1.2649612987798033,
+            "pstn": 1.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "favorable",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "moving",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "did",
+            "strength": 0.6835319026392652,
+            "pstn": 5.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "but",
+            "strength": 0.5037615699869867,
+            "pstn": 3.0,
+            "pos": "CCONJ"
+        },
+        {
+            "collocate": "which",
+            "strength": 0.4563570515671811,
+            "pstn": 4.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "to",
+            "strength": 0.26871400907085574,
+            "pstn": 2.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "''",
+            "strength": 0.1901530755882177,
+            "pstn": 3.0,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": ".",
+            "strength": 0.03607248029757164,
+            "pstn": 3.0,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": ",",
+            "strength": 0.0,
+            "pstn": 2.0,
+            "pos": "PUNCT"
+        }
+    ]
+}

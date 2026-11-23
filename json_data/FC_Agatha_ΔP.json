@@ -1,0 +1,211 @@
+{
+    "NODE_WORD": "Agatha",
+    "NODE_POS": [],
+    "NODE_FREQ": 11,
+    "TOTAL_TOK": 745,
+    "METRIC": "ΔP",
+    "COLL_POS": [
+        "PROPN",
+        "ADJ",
+        "ADV",
+        "NOUN",
+        "VERB"
+    ],
+    "WINDOW_SIZE": [
+        5,
+        5
+    ],
+    "LANG": "en",
+    "CASE_SENSITIVE": true,
+    "MIN_COFREQ": 0.0,
+    "LEFT_COLLOCATES": [
+        {
+            "collocate": "named",
+            "strength": 1.0,
+            "pstn": -1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "desperate",
+            "strength": 1.0,
+            "pstn": -4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "arrived",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "chill",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "ran",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "morning",
+            "strength": 1.0,
+            "pstn": -4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "found",
+            "strength": 1.0,
+            "pstn": -1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "lived",
+            "strength": 0.0,
+            "pstn": -5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "old",
+            "strength": 0.0,
+            "pstn": -3.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "woman",
+            "strength": 0.0,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "couple",
+            "strength": 0.0,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        }
+    ],
+    "RIGHT_COLLOCATES": [
+        {
+            "collocate": "doorstep",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "unfazed",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "experienced",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "darted",
+            "strength": 1.0,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "spine",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "keeper",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "softened",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "thought",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "sitting",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "chair",
+            "strength": 1.0,
+            "pstn": 5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "most",
+            "strength": 1.0,
+            "pstn": 5.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "tales",
+            "strength": 0.620436663843024,
+            "pstn": 5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "little",
+            "strength": 0.620436663843024,
+            "pstn": 4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "ones",
+            "strength": 0.620436663843024,
+            "pstn": 5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "moment",
+            "strength": 0.620436663843024,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "smiled",
+            "strength": 0.620436663843024,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "remained",
+            "strength": 0.620436663843024,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "eyes",
+            "strength": 0.39524676125182995,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "rocking",
+            "strength": 0.39524676125182995,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "village",
+            "strength": 0.0,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        }
+    ]
+}

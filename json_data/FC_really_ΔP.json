@@ -1,0 +1,2115 @@
+{
+    "NODE_WORD": "really",
+    "NODE_POS": [
+        "ADV"
+    ],
+    "NODE_FREQ": 13,
+    "TOTAL_TOK": 106575,
+    "METRIC": "ΔP",
+    "COLL_POS": [],
+    "WINDOW_SIZE": [
+        5,
+        5
+    ],
+    "LANG": "en",
+    "CASE_SENSITIVE": true,
+    "MIN_COFREQ": 0.003,
+    "LEFT_COLLOCATES": [
+        {
+            "collocate": "silent",
+            "strength": 1.0,
+            "pstn": -4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "reforming",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "frighten",
+            "strength": 1.0,
+            "pstn": -5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "Whenever",
+            "strength": 1.0,
+            "pstn": -5.0,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "circles",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Billie",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "scholars",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "entertainers",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "shrink",
+            "strength": 1.0,
+            "pstn": -5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "insignificances",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "communism",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Molotov",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "folk-dance",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "temper",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Nor",
+            "strength": 1.0,
+            "pstn": -5.0,
+            "pos": "CCONJ"
+        },
+        {
+            "collocate": "Succeed",
+            "strength": 1.0,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "reproduce",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "Frost",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "entity",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Catholics",
+            "strength": 1.0,
+            "pstn": -1.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "atom",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Nobody",
+            "strength": 0.9109475572104941,
+            "pstn": -1.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "neither",
+            "strength": 0.9109475572104941,
+            "pstn": -3.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "Should",
+            "strength": 0.9109475572104941,
+            "pstn": -3.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "wonder",
+            "strength": 0.9109475572104941,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Harvard",
+            "strength": 0.9109475572104941,
+            "pstn": -2.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "charming",
+            "strength": 0.9109475572104941,
+            "pstn": -3.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "Business",
+            "strength": 0.9109475572104941,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "films",
+            "strength": 0.8588492119542918,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "giants",
+            "strength": 0.8588492119542918,
+            "pstn": -1.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Jewish",
+            "strength": 0.8588492119542918,
+            "pstn": -4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "Thus",
+            "strength": 0.8588492119542918,
+            "pstn": -3.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "Broadway",
+            "strength": 0.8588492119542918,
+            "pstn": -2.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "matters",
+            "strength": 0.8588492119542918,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Because",
+            "strength": 0.821880643376194,
+            "pstn": -4.0,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "crisis",
+            "strength": 0.821880643376194,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Kremlin",
+            "strength": 0.821880643376194,
+            "pstn": -4.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "remember",
+            "strength": 0.821880643376194,
+            "pstn": -5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "represented",
+            "strength": 0.821880643376194,
+            "pstn": -3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "Without",
+            "strength": 0.821880643376194,
+            "pstn": -1.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "discussion",
+            "strength": 0.821880643376194,
+            "pstn": -5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Reama",
+            "strength": 0.7932023461405694,
+            "pstn": -4.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "wild",
+            "strength": 0.7932023461405694,
+            "pstn": -5.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "'d",
+            "strength": 0.7697678221843114,
+            "pstn": -1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "English",
+            "strength": 0.7697678221843114,
+            "pstn": -2.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "idea",
+            "strength": 0.7499519766632626,
+            "pstn": -5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "dog",
+            "strength": 0.7499519766632626,
+            "pstn": -4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "reach",
+            "strength": 0.7499519766632626,
+            "pstn": -3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "therefore",
+            "strength": 0.7499519766632626,
+            "pstn": -4.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "dancing",
+            "strength": 0.7327847727770751,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "greatest",
+            "strength": 0.7176405168998823,
+            "pstn": -4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "Berlin",
+            "strength": 0.7040919898162806,
+            "pstn": -4.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "miles",
+            "strength": 0.7040919898162806,
+            "pstn": -5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "friends",
+            "strength": 0.6918344734481252,
+            "pstn": -1.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "However",
+            "strength": 0.6806429752362452,
+            "pstn": -3.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "us",
+            "strength": 0.6806429752362452,
+            "pstn": -2.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "she",
+            "strength": 0.6608464285211648,
+            "pstn": -1.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "word",
+            "strength": 0.6608126341902341,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "To",
+            "strength": 0.6519356918481986,
+            "pstn": -5.0,
+            "pos": "PART"
+        },
+        {
+            "collocate": "religious",
+            "strength": 0.6436309298753203,
+            "pstn": -4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "does",
+            "strength": 0.6396908432217071,
+            "pstn": -2.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "Then",
+            "strength": 0.6358289248249934,
+            "pstn": -3.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "do",
+            "strength": 0.632119225708653,
+            "pstn": -3.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "'s",
+            "strength": 0.6309207523515149,
+            "pstn": -2.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "whether",
+            "strength": 0.6284721686630554,
+            "pstn": -2.0,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "14",
+            "strength": 0.6284721686630554,
+            "pstn": -5.0,
+            "pos": "NUM"
+        },
+        {
+            "collocate": "Jack",
+            "strength": 0.6284721686630554,
+            "pstn": -4.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "involved",
+            "strength": 0.6215124889173084,
+            "pstn": -1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "right",
+            "strength": 0.6149091313354532,
+            "pstn": -4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "war",
+            "strength": 0.6149091313354532,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "before",
+            "strength": 0.6086273108270684,
+            "pstn": -5.0,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "11",
+            "strength": 0.6026370998117839,
+            "pstn": -5.0,
+            "pos": "NUM"
+        },
+        {
+            "collocate": "students",
+            "strength": 0.6026370998117839,
+            "pstn": -4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "real",
+            "strength": 0.6026370998117839,
+            "pstn": -4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "old",
+            "strength": 0.5969125638777703,
+            "pstn": -5.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "West",
+            "strength": 0.5969125638777703,
+            "pstn": -5.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "n't",
+            "strength": 0.5956044823350106,
+            "pstn": -1.0,
+            "pos": "PART"
+        },
+        {
+            "collocate": "field",
+            "strength": 0.5914310815302896,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "done",
+            "strength": 0.5914310815302896,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "higher",
+            "strength": 0.5861728028966652,
+            "pstn": -4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "away",
+            "strength": 0.5861728028966652,
+            "pstn": -4.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "did",
+            "strength": 0.583652627929913,
+            "pstn": -3.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "these",
+            "strength": 0.5811516376288294,
+            "pstn": -3.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "our",
+            "strength": 0.5739267421158681,
+            "pstn": -4.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "was",
+            "strength": 0.5715716855923918,
+            "pstn": -1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "we",
+            "strength": 0.5641920362515263,
+            "pstn": -2.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "could",
+            "strength": 0.5627527448113094,
+            "pstn": -1.3333333333333333,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "5",
+            "strength": 0.5626802084229008,
+            "pstn": -3.0,
+            "pos": "NUM"
+        },
+        {
+            "collocate": "few",
+            "strength": 0.5626802084229008,
+            "pstn": -1.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "far",
+            "strength": 0.5584536897397243,
+            "pstn": -2.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "education",
+            "strength": 0.5584536897397243,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "third",
+            "strength": 0.5584536897397243,
+            "pstn": -2.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "It",
+            "strength": 0.5534746010631505,
+            "pstn": -2.75,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "may",
+            "strength": 0.5504335405335379,
+            "pstn": -2.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "session",
+            "strength": 0.5356390022296484,
+            "pstn": -4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "how",
+            "strength": 0.5356390022296484,
+            "pstn": -5.0,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "never",
+            "strength": 0.5321988169115509,
+            "pstn": -1.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "And",
+            "strength": 0.525580899853926,
+            "pstn": -5.0,
+            "pos": "CCONJ"
+        },
+        {
+            "collocate": "special",
+            "strength": 0.5223944890388006,
+            "pstn": -5.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "States",
+            "strength": 0.5223944890388006,
+            "pstn": -1.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "work",
+            "strength": 0.5132797345637107,
+            "pstn": -4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "not",
+            "strength": 0.511128775911061,
+            "pstn": -1.1666666666666667,
+            "pos": "PART"
+        },
+        {
+            "collocate": "this",
+            "strength": 0.5075406243337078,
+            "pstn": -3.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "Washington",
+            "strength": 0.5020445627449482,
+            "pstn": -3.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "time",
+            "strength": 0.5007649022185663,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "without",
+            "strength": 0.4993813763457756,
+            "pstn": -1.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "her",
+            "strength": 0.4930153280224198,
+            "pstn": -2.5,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "people",
+            "strength": 0.48924314365470184,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "one",
+            "strength": 0.4869583916833398,
+            "pstn": -3.6666666666666665,
+            "pos": "NUM"
+        },
+        {
+            "collocate": "back",
+            "strength": 0.48445591577462627,
+            "pstn": -5.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "but",
+            "strength": 0.4792238083291363,
+            "pstn": -1.3333333333333333,
+            "pos": "CCONJ"
+        },
+        {
+            "collocate": "where",
+            "strength": 0.4775900429416003,
+            "pstn": -2.0,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "United",
+            "strength": 0.4775900429416003,
+            "pstn": -2.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "has",
+            "strength": 0.4775900429416003,
+            "pstn": -5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "-",
+            "strength": 0.4648575756383354,
+            "pstn": -4.0,
+            "pos": "SYM"
+        },
+        {
+            "collocate": "some",
+            "strength": 0.4570117732042811,
+            "pstn": -4.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "they",
+            "strength": 0.4522033132591251,
+            "pstn": -2.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "what",
+            "strength": 0.4496111948324735,
+            "pstn": -2.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "only",
+            "strength": 0.4478247957451024,
+            "pstn": -3.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "after",
+            "strength": 0.437590835899294,
+            "pstn": -3.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "is",
+            "strength": 0.4260078454048095,
+            "pstn": -1.625,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "them",
+            "strength": 0.4123066517638683,
+            "pstn": -1.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "He",
+            "strength": 0.40974813210430794,
+            "pstn": -2.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "President",
+            "strength": 0.4070043764728731,
+            "pstn": -5.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "that",
+            "strength": 0.4026602891351047,
+            "pstn": -2.5,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "are",
+            "strength": 0.40216116759192355,
+            "pstn": -2.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "can",
+            "strength": 0.39700129232559345,
+            "pstn": -1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "But",
+            "strength": 0.3958027275446087,
+            "pstn": -4.0,
+            "pos": "CCONJ"
+        },
+        {
+            "collocate": "there",
+            "strength": 0.3946149733200163,
+            "pstn": -2.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "than",
+            "strength": 0.39227111900236594,
+            "pstn": -3.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "it",
+            "strength": 0.3782795554320121,
+            "pstn": -1.3333333333333333,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "In",
+            "strength": 0.3759059688479207,
+            "pstn": -3.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "that",
+            "strength": 0.3708647397607013,
+            "pstn": -2.5,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "other",
+            "strength": 0.35418698740272475,
+            "pstn": -4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "he",
+            "strength": 0.3511247409167288,
+            "pstn": -2.6666666666666665,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "out",
+            "strength": 0.3499014002179867,
+            "pstn": -3.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "Mr.",
+            "strength": 0.3378146185474551,
+            "pstn": -5.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "from",
+            "strength": 0.33649392450381077,
+            "pstn": -2.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "had",
+            "strength": 0.3288758781514025,
+            "pstn": -1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "will",
+            "strength": 0.3207353467954935,
+            "pstn": -1.5,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "was",
+            "strength": 0.2982852816674701,
+            "pstn": -1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "were",
+            "strength": 0.29752527924806477,
+            "pstn": -1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "and",
+            "strength": 0.295741763508016,
+            "pstn": -3.3333333333333335,
+            "pos": "CCONJ"
+        },
+        {
+            "collocate": "which",
+            "strength": 0.2941422591786253,
+            "pstn": -4.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "has",
+            "strength": 0.2908415331447652,
+            "pstn": -5.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "be",
+            "strength": 0.280710187711937,
+            "pstn": -3.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "who",
+            "strength": 0.27789023900738047,
+            "pstn": -2.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "--",
+            "strength": 0.26292300472977703,
+            "pstn": -2.0,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": ",",
+            "strength": 0.24989291125610824,
+            "pstn": -3.2,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": "a",
+            "strength": 0.2275303467980881,
+            "pstn": -2.8,
+            "pos": "DET"
+        },
+        {
+            "collocate": "of",
+            "strength": 0.22526902657627149,
+            "pstn": -3.7142857142857144,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "The",
+            "strength": 0.2239656887910248,
+            "pstn": -2.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "the",
+            "strength": 0.21054884526589523,
+            "pstn": -3.5833333333333335,
+            "pos": "DET"
+        },
+        {
+            "collocate": "''",
+            "strength": 0.20160460013814394,
+            "pstn": -3.0,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": "by",
+            "strength": 0.19536882649035933,
+            "pstn": -4.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "with",
+            "strength": 0.1832695477067295,
+            "pstn": -5.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "at",
+            "strength": 0.17186121051472822,
+            "pstn": -3.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "to",
+            "strength": 0.12180872387371035,
+            "pstn": -4.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "in",
+            "strength": 0.0,
+            "pstn": -5.0,
+            "pos": "ADP"
+        }
+    ],
+    "RIGHT_COLLOCATES": [
+        {
+            "collocate": "songs",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "evacuate",
+            "strength": 0.919771586601214,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "someplace",
+            "strength": 0.919771586601214,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "crucified",
+            "strength": 0.919771586601214,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "nailed",
+            "strength": 0.919771586601214,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "matter",
+            "strength": 0.919771586601214,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "flex",
+            "strength": 0.919771586601214,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "muscles",
+            "strength": 0.919771586601214,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Ella",
+            "strength": 0.919771586601214,
+            "pstn": 5.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "enjoyment",
+            "strength": 0.919771586601214,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "cartoonists",
+            "strength": 0.919771586601214,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "grabs",
+            "strength": 0.919771586601214,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "mendacious",
+            "strength": 0.919771586601214,
+            "pstn": 5.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "immense",
+            "strength": 0.919771586601214,
+            "pstn": 3.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "fun",
+            "strength": 0.919771586601214,
+            "pstn": 2.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "LaGuardia",
+            "strength": 0.919771586601214,
+            "pstn": 1.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "musical",
+            "strength": 0.919771586601214,
+            "pstn": 2.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "Royce",
+            "strength": 0.919771586601214,
+            "pstn": 2.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "Santayana",
+            "strength": 0.919771586601214,
+            "pstn": 4.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "momentous",
+            "strength": 0.919771586601214,
+            "pstn": 1.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "fables",
+            "strength": 0.919771586601214,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "chamber",
+            "strength": 0.919771586601214,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "suites",
+            "strength": 0.919771586601214,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "eighteenth-century",
+            "strength": 0.919771586601214,
+            "pstn": 4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "belted",
+            "strength": 0.919771586601214,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "seize",
+            "strength": 0.919771586601214,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "Trying",
+            "strength": 0.919771586601214,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "transferred",
+            "strength": 0.919771586601214,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "smells",
+            "strength": 0.919771586601214,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "seasonal",
+            "strength": 0.919771586601214,
+            "pstn": 5.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "pseudo",
+            "strength": 0.919771586601214,
+            "pstn": 1.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "analogous",
+            "strength": 0.919771586601214,
+            "pstn": 4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "stronghold",
+            "strength": 0.919771586601214,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "care",
+            "strength": 0.8728402150343535,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "protective",
+            "strength": 0.8395371987524124,
+            "pstn": 1.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "sum",
+            "strength": 0.8395371987524124,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "charm",
+            "strength": 0.8395371987524124,
+            "pstn": 5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "democracy",
+            "strength": 0.8395371987524124,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Christianity",
+            "strength": 0.8395371987524124,
+            "pstn": 5.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "confronted",
+            "strength": 0.8395371987524124,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "alternative",
+            "strength": 0.8395371987524124,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "resent",
+            "strength": 0.8395371987524124,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "beautiful",
+            "strength": 0.8137078889895042,
+            "pstn": 1.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "understand",
+            "strength": 0.8137078889895042,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "engaged",
+            "strength": 0.792597679648513,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "watching",
+            "strength": 0.792597679648513,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "meaning",
+            "strength": 0.792597679648513,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "wonderful",
+            "strength": 0.792597679648513,
+            "pstn": 1.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "Russians",
+            "strength": 0.792597679648513,
+            "pstn": 4.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "excess",
+            "strength": 0.792597679648513,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "competitive",
+            "strength": 0.7592897727950059,
+            "pstn": 3.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "remarkable",
+            "strength": 0.7592897727950059,
+            "pstn": 1.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "crisis",
+            "strength": 0.7592897727950059,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "closer",
+            "strength": 0.7592897727950059,
+            "pstn": 1.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "woods",
+            "strength": 0.7592897727950059,
+            "pstn": 5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "suggestion",
+            "strength": 0.7592897727950059,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "need",
+            "strength": 0.7456565288883379,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "eliminate",
+            "strength": 0.7334512269767268,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "feels",
+            "strength": 0.7334512269767268,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "based",
+            "strength": 0.7334512269767268,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "responsible",
+            "strength": 0.7334512269767268,
+            "pstn": 1.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "right",
+            "strength": 0.7334512269767268,
+            "pstn": 3.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "machine",
+            "strength": 0.7334512269767268,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "marriage",
+            "strength": 0.7224199641986083,
+            "pstn": 2.5,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "throw",
+            "strength": 0.7123372111759159,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "expects",
+            "strength": 0.7123372111759159,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "true",
+            "strength": 0.7123372111759159,
+            "pstn": 3.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "girls",
+            "strength": 0.7123372111759159,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "quite",
+            "strength": 0.7123372111759159,
+            "pstn": 1.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "door",
+            "strength": 0.7123372111759159,
+            "pstn": 5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "break",
+            "strength": 0.6944835489372969,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "tremendous",
+            "strength": 0.6944835489372969,
+            "pstn": 1.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "doing",
+            "strength": 0.6944835489372969,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "learned",
+            "strength": 0.6944835489372969,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "attention",
+            "strength": 0.6944835489372969,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "talks",
+            "strength": 0.6790162573983148,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "practice",
+            "strength": 0.6790162573983148,
+            "pstn": 5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "person",
+            "strength": 0.6653715996924694,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "though",
+            "strength": 0.6653715996924694,
+            "pstn": 2.0,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "looks",
+            "strength": 0.6653715996924694,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "!",
+            "strength": 0.659138586207273,
+            "pstn": 3.5,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": "retired",
+            "strength": 0.6531646602447198,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "official",
+            "strength": 0.6531646602447198,
+            "pstn": 3.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "Berlin",
+            "strength": 0.6531646602447198,
+            "pstn": 3.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "Catholic",
+            "strength": 0.6320375886950499,
+            "pstn": 5.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "believe",
+            "strength": 0.6320375886950499,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "up",
+            "strength": 0.6320375886950499,
+            "pstn": 2.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "ready",
+            "strength": 0.6320375886950499,
+            "pstn": 1.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "us",
+            "strength": 0.6320375886950499,
+            "pstn": 5.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "personal",
+            "strength": 0.6320375886950499,
+            "pstn": 1.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "like",
+            "strength": 0.6227749359044632,
+            "pstn": 4.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "theater",
+            "strength": 0.6227608000704665,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "much",
+            "strength": 0.6141860911427245,
+            "pstn": 2.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "parties",
+            "strength": 0.6141708662917071,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "felt",
+            "strength": 0.6141708662917071,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "great",
+            "strength": 0.6061892410633146,
+            "pstn": 2.5,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "thing",
+            "strength": 0.6061729269598704,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "better",
+            "strength": 0.6061729269598704,
+            "pstn": 2.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "position",
+            "strength": 0.5916610668485786,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "do",
+            "strength": 0.5883187055569702,
+            "pstn": 4.5,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "proposed",
+            "strength": 0.5850327834605392,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "how",
+            "strength": 0.5818753637318953,
+            "pstn": 3.5,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "wanted",
+            "strength": 0.5787622576160811,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "East",
+            "strength": 0.5787622576160811,
+            "pstn": 2.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "long",
+            "strength": 0.5787622576160811,
+            "pstn": 5.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "just",
+            "strength": 0.5671758362989562,
+            "pstn": 2.5,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "himself",
+            "strength": 0.5671529817331402,
+            "pstn": 4.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "much",
+            "strength": 0.5671529817331402,
+            "pstn": 2.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "going",
+            "strength": 0.5617559269321557,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "work",
+            "strength": 0.5617559269321557,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "won",
+            "strength": 0.5516595389064682,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "among",
+            "strength": 0.5516595389064682,
+            "pstn": 4.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "for",
+            "strength": 0.5469219398682866,
+            "pstn": 2.0,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "along",
+            "strength": 0.5379887181053645,
+            "pstn": 2.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "think",
+            "strength": 0.5379887181053645,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "staff",
+            "strength": 0.5379887181053645,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "know",
+            "strength": 0.5337666386534055,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "me",
+            "strength": 0.5296922730605158,
+            "pstn": 4.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "very",
+            "strength": 0.5257556037461207,
+            "pstn": 1.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "come",
+            "strength": 0.521947598837398,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "get",
+            "strength": 0.5182949544297732,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "American",
+            "strength": 0.5146856512067898,
+            "pstn": 4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "does",
+            "strength": 0.5146856512067898,
+            "pstn": 1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "little",
+            "strength": 0.5078495857233873,
+            "pstn": 3.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "go",
+            "strength": 0.49527314785315785,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "next",
+            "strength": 0.49527314785315785,
+            "pstn": 4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "family",
+            "strength": 0.4894590134159475,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "we",
+            "strength": 0.47998106180442446,
+            "pstn": 3.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "set",
+            "strength": 0.4786328183562617,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "about",
+            "strength": 0.47612619018905067,
+            "pstn": 2.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "good",
+            "strength": 0.4760759920807654,
+            "pstn": 1.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "without",
+            "strength": 0.46872468034678283,
+            "pstn": 3.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "did",
+            "strength": 0.46406845438493316,
+            "pstn": 1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "administration",
+            "strength": 0.45741390124239056,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "back",
+            "strength": 0.45527715263417173,
+            "pstn": 3.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "than",
+            "strength": 0.45323984543758866,
+            "pstn": 4.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "being",
+            "strength": 0.45317866835310266,
+            "pstn": 1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "has",
+            "strength": 0.4490911448555005,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "many",
+            "strength": 0.4451413131666479,
+            "pstn": 4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "as",
+            "strength": 0.4322783088641577,
+            "pstn": 5.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "you",
+            "strength": 0.43055055434902767,
+            "pstn": 3.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "an",
+            "strength": 0.42092832313414524,
+            "pstn": 1.25,
+            "pos": "DET"
+        },
+        {
+            "collocate": "any",
+            "strength": 0.41305269615103535,
+            "pstn": 5.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "or",
+            "strength": 0.40255208934796205,
+            "pstn": 3.5,
+            "pos": "CCONJ"
+        },
+        {
+            "collocate": "New",
+            "strength": 0.4004477758560025,
+            "pstn": 5.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "him",
+            "strength": 0.3939861241999789,
+            "pstn": 2.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "n't",
+            "strength": 0.3939861241999789,
+            "pstn": 2.0,
+            "pos": "PART"
+        },
+        {
+            "collocate": "had",
+            "strength": 0.3866712903912154,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "have",
+            "strength": 0.3831767172303626,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "her",
+            "strength": 0.38203440315360304,
+            "pstn": 3.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "been",
+            "strength": 0.37878851199436464,
+            "pstn": 2.5,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "their",
+            "strength": 0.37498652945938754,
+            "pstn": 2.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "into",
+            "strength": 0.3701457208194042,
+            "pstn": 4.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "as",
+            "strength": 0.35840404682769816,
+            "pstn": 5.0,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "when",
+            "strength": 0.3565549704126753,
+            "pstn": 2.0,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "not",
+            "strength": 0.3508843847881461,
+            "pstn": 3.0,
+            "pos": "PART"
+        },
+        {
+            "collocate": "out",
+            "strength": 0.3340463491906613,
+            "pstn": 2.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "are",
+            "strength": 0.3334610990428045,
+            "pstn": 1.5,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "up",
+            "strength": 0.33328880668388955,
+            "pstn": 2.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "one",
+            "strength": 0.3288413173583955,
+            "pstn": 2.0,
+            "pos": "NUM"
+        },
+        {
+            "collocate": "have",
+            "strength": 0.3281158256487181,
+            "pstn": 5.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "(",
+            "strength": 0.32455264072034784,
+            "pstn": 3.0,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": "that",
+            "strength": 0.319006708475224,
+            "pstn": 3.0,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "to",
+            "strength": 0.31658278883850977,
+            "pstn": 3.0,
+            "pos": "PART"
+        },
+        {
+            "collocate": "had",
+            "strength": 0.31510279369267946,
+            "pstn": 4.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "it",
+            "strength": 0.3117917191196705,
+            "pstn": 4.5,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "his",
+            "strength": 0.3044657870472871,
+            "pstn": 3.5,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "this",
+            "strength": 0.301602834005852,
+            "pstn": 3.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "to",
+            "strength": 0.29844639349042734,
+            "pstn": 3.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "they",
+            "strength": 0.2970441887205734,
+            "pstn": 1.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "he",
+            "strength": 0.2871138027740049,
+            "pstn": 2.5,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "is",
+            "strength": 0.28702954903029826,
+            "pstn": 3.6666666666666665,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "''",
+            "strength": 0.2841350781206717,
+            "pstn": 3.1666666666666665,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": "has",
+            "strength": 0.28083464457462637,
+            "pstn": 3.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": ".",
+            "strength": 0.27971791487099507,
+            "pstn": 3.9375,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": "be",
+            "strength": 0.2717065143018933,
+            "pstn": 1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "as",
+            "strength": 0.2605668980528958,
+            "pstn": 5.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "--",
+            "strength": 0.25568063456828977,
+            "pstn": 3.0,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": ";",
+            "strength": 0.2502129309114667,
+            "pstn": 5.0,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": "from",
+            "strength": 0.23924628542199003,
+            "pstn": 4.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "will",
+            "strength": 0.22471796788082857,
+            "pstn": 5.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": ",",
+            "strength": 0.20626715121898942,
+            "pstn": 3.272727272727273,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": "for",
+            "strength": 0.20482210785043364,
+            "pstn": 2.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "the",
+            "strength": 0.18606600555899866,
+            "pstn": 2.9,
+            "pos": "DET"
+        },
+        {
+            "collocate": "at",
+            "strength": 0.17363586312358117,
+            "pstn": 4.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "in",
+            "strength": 0.16660722763191552,
+            "pstn": 3.3333333333333335,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "on",
+            "strength": 0.16137609335452688,
+            "pstn": 4.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "a",
+            "strength": 0.16075754619948282,
+            "pstn": 4.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "of",
+            "strength": 0.15249467391273533,
+            "pstn": 4.5,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "and",
+            "strength": 0.0,
+            "pstn": 2.0,
+            "pos": "CCONJ"
+        }
+    ]
+}

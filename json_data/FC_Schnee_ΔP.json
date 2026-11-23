@@ -1,0 +1,361 @@
+{
+    "NODE_WORD": "schnee",
+    "NODE_POS": [],
+    "NODE_FREQ": 10,
+    "TOTAL_TOK": 1315,
+    "METRIC": "ΔP",
+    "COLL_POS": [],
+    "WINDOW_SIZE": [
+        5,
+        5
+    ],
+    "LANG": "de",
+    "CASE_SENSITIVE": false,
+    "MIN_COFREQ": 0.0,
+    "LEFT_COLLOCATES": [
+        {
+            "collocate": "im",
+            "strength": 1.0,
+            "pstn": -1.6666666666666667,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "der",
+            "strength": 0.8452170373237019,
+            "pstn": -5.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "sie",
+            "strength": 0.7545571620852306,
+            "pstn": -2.5,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "winter",
+            "strength": 0.5992055567468985,
+            "pstn": -4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "oft",
+            "strength": 0.5992055567468985,
+            "pstn": -3.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "unter",
+            "strength": 0.5992055567468985,
+            "pstn": -2.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "meterdickem",
+            "strength": 0.5992055567468985,
+            "pstn": -1.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "gehörte",
+            "strength": 0.5992055567468985,
+            "pstn": -5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "stille",
+            "strength": 0.5992055567468985,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "dem",
+            "strength": 0.5992055567468985,
+            "pstn": -1.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "dass",
+            "strength": 0.5992055567468985,
+            "pstn": -4.0,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "etwas",
+            "strength": 0.5992055567468985,
+            "pstn": -2.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "was",
+            "strength": 0.5992055567468985,
+            "pstn": -4.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "hat",
+            "strength": 0.5992055567468985,
+            "pstn": -3.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "dorthin",
+            "strength": 0.5992055567468985,
+            "pstn": -4.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "wo",
+            "strength": 0.5992055567468985,
+            "pstn": -2.0,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "runde",
+            "strength": 0.5992055567468985,
+            "pstn": -4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "gebilde",
+            "strength": 0.5992055567468985,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "aus",
+            "strength": 0.5992055567468985,
+            "pstn": -2.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "festgepacktem",
+            "strength": 0.5992055567468985,
+            "pstn": -1.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "kniete",
+            "strength": 0.5992055567468985,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "der",
+            "strength": 0.5992055567468985,
+            "pstn": -5.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "lachend",
+            "strength": 0.5992055567468985,
+            "pstn": -4.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "neben",
+            "strength": 0.5992055567468985,
+            "pstn": -3.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "marta",
+            "strength": 0.5992055567468985,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "sah",
+            "strength": 0.5992055567468985,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "ihre",
+            "strength": 0.5992055567468985,
+            "pstn": -3.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "spuren",
+            "strength": 0.5992055567468985,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "„",
+            "strength": 0.44316326976371107,
+            "pstn": -5.0,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": "klara",
+            "strength": 0.28554604427633584,
+            "pstn": -3.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": ",",
+            "strength": 0.0,
+            "pstn": -4.166666666666667,
+            "pos": "PUNCT"
+        }
+    ],
+    "RIGHT_COLLOCATES": [
+        {
+            "collocate": "und",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "CCONJ"
+        },
+        {
+            "collocate": "zurückgelassen",
+            "strength": 0.8372899818112592,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "verschwanden",
+            "strength": 0.8371120533344281,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "einem",
+            "strength": 0.8371120533344281,
+            "pstn": 2.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "alten",
+            "strength": 0.8371120533344281,
+            "pstn": 3.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "geheimnis",
+            "strength": 0.8371120533344281,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "habe",
+            "strength": 0.8371120533344281,
+            "pstn": 2.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "fragte",
+            "strength": 0.8371120533344281,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "unberührt",
+            "strength": 0.8371120533344281,
+            "pstn": 1.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "lag",
+            "strength": 0.8371120533344281,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "in",
+            "strength": 0.8371120533344281,
+            "pstn": 2.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "deren",
+            "strength": 0.8371120533344281,
+            "pstn": 3.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "innerem",
+            "strength": 0.8371120533344281,
+            "pstn": 4.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "kerzen",
+            "strength": 0.8371120533344281,
+            "pstn": 5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "stellte",
+            "strength": 0.8371120533344281,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "vor",
+            "strength": 0.8371120533344281,
+            "pstn": 5.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "stand",
+            "strength": 0.8371120533344281,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "um",
+            "strength": 0.8371120533344281,
+            "pstn": 1.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "ihn",
+            "strength": 0.8371120533344281,
+            "pstn": 2.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "herum",
+            "strength": 0.8371120533344281,
+            "pstn": 3.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "glitzerte",
+            "strength": 0.8371120533344281,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "den",
+            "strength": 0.6734999190128286,
+            "pstn": 3.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "kompass",
+            "strength": 0.5082364435382813,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "?",
+            "strength": 0.3724587549901594,
+            "pstn": 2.0,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": ",",
+            "strength": 0.018882459791868166,
+            "pstn": 3.3333333333333335,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": "\"",
+            "strength": 0.0,
+            "pstn": 3.0,
+            "pos": "PUNCT"
+        }
+    ]
+}

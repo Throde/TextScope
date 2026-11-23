@@ -1,0 +1,43 @@
+# ===================
+# 1.激活虚拟环境
+# Windows (cmd)
+textscope\Scripts\activate
+# Windows (PowerShell)
+textscope\Scripts\Activate.ps1
+# macOS / Linux / WSL
+source textscope/bin/activate
+
+# ===================
+# 2.多语本地化编译
+# 在app.py所在根目录运行：
+# 扫描指定代码文件，提取self.tr()包裹的UI文本，得到目标语的.ts文件
+pyside6-lupdate app.py core_functions/settings_ui.py core_functions/collocation_ui.py core_functions/collocation_func.py core_functions/utils/page.py core_functions/utils/spacy_api.py core_functions/utils/lang_ptn_searcher.py -ts langs/en.ts -no-obsolete
+# Windows (CMD / 命令提示符) 使用脱字符 ^换行写法：（PowerShell用反引号 ` (通常在键盘 Esc 键下方)）
+pyside6-lupdate ^
+    app.py ^
+    core_functions/settings_ui.py ^
+    core_functions/collocation_ui.py ^
+    core_functions/collocation_func.py ^
+    core_functions/utils/page.py ^
+    core_functions/utils/spacy_api.py ^
+    core_functions/utils/lang_ptn_searcher.py ^
+    -ts langs/en.ts ^
+    -no-obsolete
+# Linux / macOS / Git Bash 使用反斜杠 \换行写法：
+pyside6-lupdate \
+    app.py \
+    core_functions/settings_ui.py \
+    core_functions/collocation_ui.py \
+    core_functions/collocation_func.py \
+    core_functions/utils/page.py \
+    core_functions/utils/spacy_api.py \
+    core_functions/utils/lang_ptn_searcher.py \
+    -ts langs/en.ts \
+    -no-obsolete
+
+# 将翻译好的.ts文件发布为.qm二进制文件
+pyside6-lrelease langs/en.ts
+
+# ===================
+# 3. 打包
+pyinstaller textscope.spec

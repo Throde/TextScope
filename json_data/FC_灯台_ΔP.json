@@ -1,0 +1,301 @@
+{
+    "NODE_WORD": "灯台",
+    "NODE_POS": [],
+    "NODE_FREQ": 14,
+    "TOTAL_TOK": 1099,
+    "METRIC": "ΔP",
+    "COLL_POS": [
+        "NOUN",
+        "PROPN",
+        "ADV",
+        "ADJ",
+        "VERB"
+    ],
+    "WINDOW_SIZE": [
+        5,
+        5
+    ],
+    "LANG": "ja",
+    "CASE_SENSITIVE": false,
+    "MIN_COFREQ": 0.001,
+    "LEFT_COLLOCATES": [
+        {
+            "collocate": "日本",
+            "strength": 1.0,
+            "pstn": -5.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "語",
+            "strength": 1.0,
+            "pstn": -4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "オリジナル",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "ストーリー",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "向こう",
+            "strength": 1.0,
+            "pstn": -5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "とっ",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "どう",
+            "strength": 1.0,
+            "pstn": -4.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "夜",
+            "strength": 1.0,
+            "pstn": -4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "古い",
+            "strength": 0.7314784609108042,
+            "pstn": -1.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "日",
+            "strength": 0.7314784609108042,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "なり",
+            "strength": 0.7314784609108042,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "日",
+            "strength": 0.7314784609108042,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "濃く",
+            "strength": 0.5724424861675468,
+            "pstn": -3.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "霧",
+            "strength": 0.41260242060325286,
+            "pstn": -5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "霧",
+            "strength": 0.12498845393175227,
+            "pstn": -5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "い",
+            "strength": 0.0797903609324108,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "真琴",
+            "strength": 0.0,
+            "pstn": -2.0,
+            "pos": "PROPN"
+        }
+    ],
+    "RIGHT_COLLOCATES": [
+        {
+            "collocate": "冬",
+            "strength": 1.0,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "本",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "使わ",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "ある",
+            "strength": 1.0,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "興味",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "抱い",
+            "strength": 1.0,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "存在",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "不可解",
+            "strength": 1.0,
+            "pstn": 4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "行く",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "確かめ",
+            "strength": 1.0,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "着く",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "全体",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "軽く",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "震え",
+            "strength": 1.0,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "つい",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "調べる",
+            "strength": 1.0,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "ため",
+            "strength": 1.0,
+            "pstn": 5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "守",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "夫婦",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "歩き",
+            "strength": 1.0,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "もう",
+            "strength": 0.7207698498666623,
+            "pstn": 2.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "強い",
+            "strength": 0.7207698498666623,
+            "pstn": 2.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "内部",
+            "strength": 0.7207698498666623,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "風",
+            "strength": 0.7207698498666623,
+            "pstn": 5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "方",
+            "strength": 0.7207698498666623,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "波",
+            "strength": 0.5553915369954165,
+            "pstn": 5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "上",
+            "strength": 0.5553915369954165,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "声",
+            "strength": 0.47540793252782493,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "声",
+            "strength": 0.0,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        }
+    ]
+}

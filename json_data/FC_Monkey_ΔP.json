@@ -1,0 +1,1049 @@
+{
+    "NODE_WORD": "Monkey",
+    "NODE_POS": [],
+    "METRIC": "ΔP",
+    "COLL_POS": [],
+    "WINDOW_SIZE": [
+        5,
+        5
+    ],
+    "LANG": "en",
+    "CASE_SENSITIVE": 0,
+    "MIN_COFREQ": 0.0,
+    "LEFT_COLLOCATES": [
+        {
+            "collocate": "retorted",
+            "strength": 1.0,
+            "pstn": -1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "cloud-somersault",
+            "strength": 0.8913504646679868,
+            "pstn": -2.75,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "raged",
+            "strength": 0.8697506871878637,
+            "pstn": -1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "real",
+            "strength": 0.8575557210175163,
+            "pstn": -2.2,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "rejoiced",
+            "strength": 0.8496984944361893,
+            "pstn": -1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "mused",
+            "strength": 0.8273885985195707,
+            "pstn": -1.2,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "said",
+            "strength": 0.8092783940700463,
+            "pstn": -1.0444444444444445,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "answered",
+            "strength": 0.7968847090912737,
+            "pstn": -1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "getting",
+            "strength": 0.7664206937370879,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "instant",
+            "strength": 0.7664206937370879,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "exclaimed",
+            "strength": 0.7177432878951417,
+            "pstn": -1.6666666666666667,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "down",
+            "strength": 0.6838342569963347,
+            "pstn": -3.2,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "help",
+            "strength": 0.6752181470395794,
+            "pstn": -3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "heard",
+            "strength": 0.6587033299970658,
+            "pstn": -3.6666666666666665,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "though",
+            "strength": 0.6298919445935383,
+            "pstn": -2.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "replied",
+            "strength": 0.6165183687330458,
+            "pstn": -1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "also",
+            "strength": 0.6150226875791874,
+            "pstn": -3.3333333333333335,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "news",
+            "strength": 0.6120876215670953,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "bowed",
+            "strength": 0.6120876215670953,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "right",
+            "strength": 0.6035497013031572,
+            "pstn": -4.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "room",
+            "strength": 0.5952356070188498,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "enough",
+            "strength": 0.5936185777546893,
+            "pstn": -3.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "Chapter",
+            "strength": 0.5871325943267274,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "asked",
+            "strength": 0.5779414089394305,
+            "pstn": -1.1304347826086956,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "there",
+            "strength": 0.5424013394960824,
+            "pstn": -3.6666666666666665,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "Erlang",
+            "strength": 0.5423524939038838,
+            "pstn": -2.5,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "spell",
+            "strength": 0.5423524939038838,
+            "pstn": -2.25,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "too",
+            "strength": 0.5070998859606081,
+            "pstn": -3.8333333333333335,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "little",
+            "strength": 0.49683168834065894,
+            "pstn": -3.75,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "thought",
+            "strength": 0.49066146031784785,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "turned",
+            "strength": 0.48779350738835436,
+            "pstn": -3.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "moment",
+            "strength": 0.4563479655968897,
+            "pstn": -3.25,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Now",
+            "strength": 0.45093097935390664,
+            "pstn": -2.25,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "all",
+            "strength": 0.4403280571636544,
+            "pstn": -4.75,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "day",
+            "strength": 0.43524719600354467,
+            "pstn": -3.2857142857142856,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "explained",
+            "strength": 0.43517355921134365,
+            "pstn": -1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "cave",
+            "strength": 0.4301656559755795,
+            "pstn": -2.75,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Demon",
+            "strength": 0.41504880834208996,
+            "pstn": -3.25,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "soon",
+            "strength": 0.4054632002952311,
+            "pstn": -2.5,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "only",
+            "strength": 0.40538066523637073,
+            "pstn": -2.5,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "know",
+            "strength": 0.396027661508654,
+            "pstn": -3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "so",
+            "strength": 0.39408995149763587,
+            "pstn": -4.111111111111111,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "away",
+            "strength": 0.3922711537640912,
+            "pstn": -2.6,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "again",
+            "strength": 0.3868076894860374,
+            "pstn": -2.8333333333333335,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "ordered",
+            "strength": 0.38671904016326564,
+            "pstn": -1.75,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "time",
+            "strength": 0.37792801249234403,
+            "pstn": -2.7777777777777777,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "told",
+            "strength": 0.35792838131803556,
+            "pstn": -1.4285714285714286,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "see",
+            "strength": 0.3467813350248627,
+            "pstn": -2.6,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "mountain",
+            "strength": 0.34628000972823847,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "going",
+            "strength": 0.34342073862803174,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "had",
+            "strength": 0.3304779222626032,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "Guanyin",
+            "strength": 0.32967406339956284,
+            "pstn": -3.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "fiend",
+            "strength": 0.3272304451383891,
+            "pstn": -4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Tripitaka",
+            "strength": 0.3209487869509443,
+            "pstn": -3.259259259259259,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "Sandy",
+            "strength": 0.3206337061262377,
+            "pstn": -3.4285714285714284,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "staff",
+            "strength": 0.31783990554901664,
+            "pstn": -3.2,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Mountain",
+            "strength": 0.31783990554901664,
+            "pstn": -3.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "then",
+            "strength": 0.30735250626845956,
+            "pstn": -3.2,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "immediately",
+            "strength": 0.28536626513562824,
+            "pstn": -2.75,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "get",
+            "strength": 0.28470232019457864,
+            "pstn": -2.4,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "Heaven",
+            "strength": 0.2378075272876619,
+            "pstn": -3.1666666666666665,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "water",
+            "strength": 0.2332017460602355,
+            "pstn": -3.25,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "have",
+            "strength": 0.22871449327685525,
+            "pstn": -3.5714285714285716,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "now",
+            "strength": 0.21686279222889382,
+            "pstn": -3.111111111111111,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "head",
+            "strength": 0.216797370646151,
+            "pstn": -3.5,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Pigsy",
+            "strength": 0.20998196103589642,
+            "pstn": -2.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "here",
+            "strength": 0.1797260567232096,
+            "pstn": -2.7142857142857144,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "monster",
+            "strength": 0.14002640690640708,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "way",
+            "strength": 0.09975064596194302,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "king",
+            "strength": 0.091305033598262,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "go",
+            "strength": 0.07730773564085083,
+            "pstn": -4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "back",
+            "strength": 0.0,
+            "pstn": -3.0,
+            "pos": "ADV"
+        }
+    ],
+    "RIGHT_COLLOCATES": [
+        {
+            "collocate": "waved",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "somersaulted",
+            "strength": 0.9669300153363122,
+            "pstn": 1.1428571428571428,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "cricket",
+            "strength": 0.9279541734890918,
+            "pstn": 4.6,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "standing",
+            "strength": 0.8636904459588588,
+            "pstn": 1.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "laughed",
+            "strength": 0.8564268358801534,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "smiled",
+            "strength": 0.8332570792864309,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "leaped",
+            "strength": 0.8332570792864309,
+            "pstn": 2.125,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "laughing",
+            "strength": 0.8332570792864309,
+            "pstn": 3.125,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "self",
+            "strength": 0.8332341065565844,
+            "pstn": 4.5,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "transformed",
+            "strength": 0.8288663778342521,
+            "pstn": 2.076923076923077,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "smiling",
+            "strength": 0.8218812174540662,
+            "pstn": 2.8,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "hairs",
+            "strength": 0.8191260835681188,
+            "pstn": 4.125,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "giggled",
+            "strength": 0.8056092796807,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "instructed",
+            "strength": 0.8003847310325913,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "resumed",
+            "strength": 0.7803221394383929,
+            "pstn": 1.75,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "words",
+            "strength": 0.7569976663236204,
+            "pstn": 4.5,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "real",
+            "strength": 0.743828958412737,
+            "pstn": 3.8,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "grabbed",
+            "strength": 0.743828958412737,
+            "pstn": 1.6,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "pointed",
+            "strength": 0.7353606036732352,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "followed",
+            "strength": 0.7271059100429943,
+            "pstn": 1.6,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "sprang",
+            "strength": 0.715131094962257,
+            "pstn": 1.25,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "flew",
+            "strength": 0.715131094962257,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "became",
+            "strength": 0.6962089587985743,
+            "pstn": 2.25,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "held",
+            "strength": 0.6961716049875811,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "pulled",
+            "strength": 0.6783532933027079,
+            "pstn": 1.375,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "instantly",
+            "strength": 0.6758747188856198,
+            "pstn": 2.142857142857143,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "air",
+            "strength": 0.6568029310213839,
+            "pstn": 4.142857142857143,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "explained",
+            "strength": 0.6494763079008342,
+            "pstn": 1.9375,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "summoned",
+            "strength": 0.6156534031999629,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "changed",
+            "strength": 0.6109800692479997,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "form",
+            "strength": 0.6017613006127798,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "caught",
+            "strength": 0.6017613006127798,
+            "pstn": 2.25,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "disappeared",
+            "strength": 0.6017613006127798,
+            "pstn": 3.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "thought",
+            "strength": 0.598820877423914,
+            "pstn": 3.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "discovered",
+            "strength": 0.5963833645518516,
+            "pstn": 1.6,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "took",
+            "strength": 0.588559623017334,
+            "pstn": 1.75,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "sign",
+            "strength": 0.5884501620625223,
+            "pstn": 4.25,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "rushed",
+            "strength": 0.584161240366226,
+            "pstn": 2.6666666666666665,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "magic",
+            "strength": 0.584161240366226,
+            "pstn": 3.6666666666666665,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "went",
+            "strength": 0.575784861756708,
+            "pstn": 1.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "decided",
+            "strength": 0.5756846445931985,
+            "pstn": 1.4,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "ear",
+            "strength": 0.575670325865819,
+            "pstn": 3.5,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "smashed",
+            "strength": 0.575670325865819,
+            "pstn": 1.75,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "told",
+            "strength": 0.5714079869753929,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "tried",
+            "strength": 0.5674533494402657,
+            "pstn": 1.8333333333333333,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "turned",
+            "strength": 0.5605581503613867,
+            "pstn": 1.6875,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "returned",
+            "strength": 0.5595037941509474,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "gave",
+            "strength": 0.5482767015568446,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "bowed",
+            "strength": 0.5469321225089918,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "once",
+            "strength": 0.5346062146933952,
+            "pstn": 3.375,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "approached",
+            "strength": 0.5290817411796338,
+            "pstn": 1.6,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "head",
+            "strength": 0.5212272947662597,
+            "pstn": 3.3125,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "staff",
+            "strength": 0.5206807661280055,
+            "pstn": 3.6,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "replied",
+            "strength": 0.519637329634839,
+            "pstn": 1.4444444444444444,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "back",
+            "strength": 0.5100797722216118,
+            "pstn": 2.6666666666666665,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "straight",
+            "strength": 0.5080275681330337,
+            "pstn": 3.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "led",
+            "strength": 0.497986720579722,
+            "pstn": 1.25,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "reported",
+            "strength": 0.48823714494378656,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "shouted",
+            "strength": 0.47876076076883306,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "responded",
+            "strength": 0.46954110599065063,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "made",
+            "strength": 0.4660484953789703,
+            "pstn": 1.8,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "true",
+            "strength": 0.4605631492137133,
+            "pstn": 3.5,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "iron",
+            "strength": 0.4588170036512222,
+            "pstn": 4.2,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "quickly",
+            "strength": 0.45181312843873117,
+            "pstn": 1.75,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "had",
+            "strength": 0.43661165400259416,
+            "pstn": 2.272727272727273,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "fan",
+            "strength": 0.4316934282816731,
+            "pstn": 3.6,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "hair",
+            "strength": 0.42680930752014473,
+            "pstn": 3.5,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "cloud",
+            "strength": 0.42522838050159895,
+            "pstn": 3.4,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "spirit",
+            "strength": 0.403457433601107,
+            "pstn": 2.5,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "now",
+            "strength": 0.39531446597606196,
+            "pstn": 1.3333333333333333,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "found",
+            "strength": 0.39455296647846244,
+            "pstn": 2.4,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "Pigsy",
+            "strength": 0.3894682994639118,
+            "pstn": 2.75,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "magic",
+            "strength": 0.38871878046399005,
+            "pstn": 3.6666666666666665,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "old",
+            "strength": 0.37931215493253295,
+            "pstn": 3.3333333333333335,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "said",
+            "strength": 0.37659085977580664,
+            "pstn": 1.125,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "again",
+            "strength": 0.37003405824736,
+            "pstn": 2.7777777777777777,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "disciple",
+            "strength": 0.36082848736726464,
+            "pstn": 3.75,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "hand",
+            "strength": 0.36082848736726464,
+            "pstn": 5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Sandy",
+            "strength": 0.3478960783725594,
+            "pstn": 3.4166666666666665,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "asked",
+            "strength": 0.3457793365202388,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "called",
+            "strength": 0.33489085567997345,
+            "pstn": 1.5,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "cave",
+            "strength": 0.3213789627858359,
+            "pstn": 3.888888888888889,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "set",
+            "strength": 0.3105856292461238,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "good",
+            "strength": 0.26603176920690835,
+            "pstn": 3.8,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "Bull",
+            "strength": 0.2659888233790829,
+            "pstn": 3.25,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "only",
+            "strength": 0.2555486999034296,
+            "pstn": 3.25,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "more",
+            "strength": 0.24139242222120044,
+            "pstn": 4.2,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "ordered",
+            "strength": 0.2353969843269078,
+            "pstn": 1.25,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "Tripitaka",
+            "strength": 0.23529988986987244,
+            "pstn": 3.3636363636363638,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "more",
+            "strength": 0.2305001295223317,
+            "pstn": 4.2,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "mountain",
+            "strength": 0.1917289845506492,
+            "pstn": 4.333333333333333,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "still",
+            "strength": 0.17982215656980677,
+            "pstn": 3.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "take",
+            "strength": 0.14602167748352754,
+            "pstn": 3.25,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "soon",
+            "strength": 0.11040171151539896,
+            "pstn": 2.5,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "then",
+            "strength": 0.11034896951317529,
+            "pstn": 1.8888888888888888,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "way",
+            "strength": 0.09666144348460959,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Guanyin",
+            "strength": 0.04573355973950048,
+            "pstn": 3.2,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "get",
+            "strength": 0.0380526300919104,
+            "pstn": 4.25,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "so",
+            "strength": 0.023880234190805358,
+            "pstn": 2.6,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "Heaven",
+            "strength": 0.0,
+            "pstn": 4.0,
+            "pos": "PROPN"
+        }
+    ]
+}

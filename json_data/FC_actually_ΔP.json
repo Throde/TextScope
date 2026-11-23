@@ -1,0 +1,1329 @@
+{
+    "NODE_WORD": "actually",
+    "NODE_POS": [
+        "ADV"
+    ],
+    "NODE_FREQ": 15,
+    "TOTAL_TOK": 106575,
+    "METRIC": "ΔP",
+    "COLL_POS": [],
+    "WINDOW_SIZE": [
+        5,
+        5
+    ],
+    "LANG": "en",
+    "CASE_SENSITIVE": true,
+    "MIN_COFREQ": 0.003,
+    "LEFT_COLLOCATES": [
+        {
+            "collocate": "misunderstandings",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "hand-screened",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "wood",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "regulations",
+            "strength": 1.0,
+            "pstn": -1.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Until",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "soil",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Sansom",
+            "strength": 1.0,
+            "pstn": -1.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "creatures",
+            "strength": 1.0,
+            "pstn": -4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "witches",
+            "strength": 1.0,
+            "pstn": -1.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "devil",
+            "strength": 1.0,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "philosophers",
+            "strength": 1.0,
+            "pstn": -4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "probability",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "responses",
+            "strength": 1.0,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "boundaries",
+            "strength": 0.9121842031289914,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "excessive",
+            "strength": 0.9121842031289914,
+            "pstn": -2.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "Chinese",
+            "strength": 0.9121842031289914,
+            "pstn": -5.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "defendant",
+            "strength": 0.8608083454022109,
+            "pstn": -1.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "intervention",
+            "strength": 0.8608083454022109,
+            "pstn": -4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "fighters",
+            "strength": 0.8608083454022109,
+            "pstn": -4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Though",
+            "strength": 0.824351756864607,
+            "pstn": -2.0,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "trustees",
+            "strength": 0.824351756864607,
+            "pstn": -5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "freedom",
+            "strength": 0.824351756864607,
+            "pstn": -5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "allowing",
+            "strength": 0.7960700930775275,
+            "pstn": -2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "direct",
+            "strength": 0.7729592431788831,
+            "pstn": -5.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "organization",
+            "strength": 0.7661202023743201,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Colmer",
+            "strength": 0.753416722948289,
+            "pstn": -3.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "Even",
+            "strength": 0.7364859921127397,
+            "pstn": -3.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "though",
+            "strength": 0.7215500625831613,
+            "pstn": -2.0,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "words",
+            "strength": 0.7215500625831613,
+            "pstn": -4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "panel",
+            "strength": 0.7081876592234928,
+            "pstn": -5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "greater",
+            "strength": 0.7081876592234928,
+            "pstn": -3.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "payroll",
+            "strength": 0.6749046647243804,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Los",
+            "strength": 0.6655009311528907,
+            "pstn": -4.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "Angeles",
+            "strength": 0.6655009311528907,
+            "pstn": -3.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "Boston",
+            "strength": 0.6655009311528907,
+            "pstn": -4.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "few",
+            "strength": 0.6567629717634343,
+            "pstn": -4.5,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "district",
+            "strength": 0.6408576723012881,
+            "pstn": -3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "necessary",
+            "strength": 0.63360088650342,
+            "pstn": -4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "headquarters",
+            "strength": 0.63360088650342,
+            "pstn": -1.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "college",
+            "strength": 0.63360088650342,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Association",
+            "strength": 0.63360088650342,
+            "pstn": -3.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "were",
+            "strength": 0.6081157168859503,
+            "pstn": -1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "both",
+            "strength": 0.6081157168859503,
+            "pstn": -2.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "real",
+            "strength": 0.6081157168859503,
+            "pstn": -5.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "think",
+            "strength": 0.5820914738614323,
+            "pstn": -3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "about",
+            "strength": 0.5659736386879236,
+            "pstn": -4.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "go",
+            "strength": 0.5353121864978073,
+            "pstn": -5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "business",
+            "strength": 0.525874936382056,
+            "pstn": -4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "public",
+            "strength": 0.525874936382056,
+            "pstn": -3.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "work",
+            "strength": 0.5199488986065199,
+            "pstn": -1.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "this",
+            "strength": 0.5142848322323671,
+            "pstn": -2.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "men",
+            "strength": 0.5036561197205874,
+            "pstn": -1.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "did",
+            "strength": 0.5011310216515655,
+            "pstn": -2.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "these",
+            "strength": 0.4986546302329852,
+            "pstn": -5.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "tax",
+            "strength": 0.49622508971678436,
+            "pstn": -2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "being",
+            "strength": 0.4892005320493901,
+            "pstn": -1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "which",
+            "strength": 0.4822129341906938,
+            "pstn": -1.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "what",
+            "strength": 0.4570986955825385,
+            "pstn": -1.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "other",
+            "strength": 0.4519674586564262,
+            "pstn": -4.5,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "after",
+            "strength": 0.44522863059191886,
+            "pstn": -4.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "but",
+            "strength": 0.434460212976986,
+            "pstn": -5.0,
+            "pos": "CCONJ"
+        },
+        {
+            "collocate": "not",
+            "strength": 0.42922204771332256,
+            "pstn": -2.3333333333333335,
+            "pos": "PART"
+        },
+        {
+            "collocate": "them",
+            "strength": 0.42025494882967285,
+            "pstn": -1.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "they",
+            "strength": 0.4076624127734199,
+            "pstn": -1.5,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "But",
+            "strength": 0.4039489610546586,
+            "pstn": -1.0,
+            "pos": "CCONJ"
+        },
+        {
+            "collocate": "there",
+            "strength": 0.4027752906734018,
+            "pstn": -2.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "also",
+            "strength": 0.3915848375984732,
+            "pstn": -4.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "new",
+            "strength": 0.365421559786765,
+            "pstn": -4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "one",
+            "strength": 0.3528593159965667,
+            "pstn": -4.0,
+            "pos": "NUM"
+        },
+        {
+            "collocate": "Mr.",
+            "strength": 0.3466175969469864,
+            "pstn": -2.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "or",
+            "strength": 0.34435071491010355,
+            "pstn": -3.0,
+            "pos": "CCONJ"
+        },
+        {
+            "collocate": "that",
+            "strength": 0.32104290962999277,
+            "pstn": -1.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "were",
+            "strength": 0.3067364538429253,
+            "pstn": -1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "would",
+            "strength": 0.29850965675375873,
+            "pstn": -1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "by",
+            "strength": 0.2977538899689253,
+            "pstn": -4.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "that",
+            "strength": 0.28908455054153753,
+            "pstn": -1.0,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "as",
+            "strength": 0.27781894139957514,
+            "pstn": -2.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "from",
+            "strength": 0.2543403523678799,
+            "pstn": -4.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "was",
+            "strength": 0.2540012203315823,
+            "pstn": -1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "it",
+            "strength": 0.24286954089915716,
+            "pstn": -2.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "will",
+            "strength": 0.23832507583897897,
+            "pstn": -1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "he",
+            "strength": 0.21490992257488156,
+            "pstn": -2.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": ",",
+            "strength": 0.2050315472072652,
+            "pstn": -2.3,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": "the",
+            "strength": 0.1811506280689508,
+            "pstn": -3.4444444444444446,
+            "pos": "DET"
+        },
+        {
+            "collocate": "and",
+            "strength": 0.1568908469626854,
+            "pstn": -3.3333333333333335,
+            "pos": "CCONJ"
+        },
+        {
+            "collocate": "''",
+            "strength": 0.15557566234123754,
+            "pstn": -4.0,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": "The",
+            "strength": 0.13817181946865678,
+            "pstn": -4.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "to",
+            "strength": 0.13179613197895132,
+            "pstn": -5.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "of",
+            "strength": 0.11734525322780073,
+            "pstn": -3.3333333333333335,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "in",
+            "strength": 0.11652964548259492,
+            "pstn": -5.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "a",
+            "strength": 0.0,
+            "pstn": -2.0,
+            "pos": "DET"
+        }
+    ],
+    "RIGHT_COLLOCATES": [
+        {
+            "collocate": "abuse",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "rise",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "7.5",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "NUM"
+        },
+        {
+            "collocate": "conpired",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "helpless",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "glib",
+            "strength": 1.0,
+            "pstn": 4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "amounts",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "1,250,000",
+            "strength": 1.0,
+            "pstn": 5.0,
+            "pos": "NUM"
+        },
+        {
+            "collocate": "accurate",
+            "strength": 1.0,
+            "pstn": 5.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "occasions",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "oncoming",
+            "strength": 1.0,
+            "pstn": 5.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "crewel",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "embroidery",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "CDC",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "controls",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "sovereignty",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "privileged",
+            "strength": 1.0,
+            "pstn": 5.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "sang",
+            "strength": 1.0,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "writes",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "nice",
+            "strength": 1.0,
+            "pstn": 5.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "flying",
+            "strength": 1.0,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "command",
+            "strength": 1.0,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "wonders",
+            "strength": 1.0,
+            "pstn": 5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "harm",
+            "strength": 1.0,
+            "pstn": 5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "occasional",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "breach",
+            "strength": 1.0,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "magicians",
+            "strength": 1.0,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Zen",
+            "strength": 1.0,
+            "pstn": 2.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "owes",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "reveal",
+            "strength": 1.0,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "supernatural",
+            "strength": 1.0,
+            "pstn": 5.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "owns",
+            "strength": 0.9347615710029379,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "close",
+            "strength": 0.9114699469936264,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "welcomed",
+            "strength": 0.9114699469936264,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "dispute",
+            "strength": 0.9114699469936264,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "turns",
+            "strength": 0.9114699469936264,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "accounts",
+            "strength": 0.9114699469936264,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Parker",
+            "strength": 0.8829696432363936,
+            "pstn": 3.5,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "defending",
+            "strength": 0.8596762200121274,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "appears",
+            "strength": 0.8596762200121274,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "back",
+            "strength": 0.8229231091748317,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "drastic",
+            "strength": 0.8229231091748317,
+            "pstn": 4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "meetings",
+            "strength": 0.7944114144297922,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "becomes",
+            "strength": 0.7944114144297922,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "dozen",
+            "strength": 0.7944114144297922,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "membership",
+            "strength": 0.7944114144297922,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "leave",
+            "strength": 0.7944114144297922,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "beginning",
+            "strength": 0.7711125907619426,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "happened",
+            "strength": 0.7514111200295874,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "form",
+            "strength": 0.7514111200295874,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "none",
+            "strength": 0.7514111200295874,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "seen",
+            "strength": 0.7514111200295874,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "doing",
+            "strength": 0.7514111200295874,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "increase",
+            "strength": 0.7192852698775378,
+            "pstn": 2.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "Communists",
+            "strength": 0.7192852698775378,
+            "pstn": 3.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "university",
+            "strength": 0.7146579978439463,
+            "pstn": 3.6666666666666665,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "Johnny",
+            "strength": 0.7058141824436714,
+            "pstn": 1.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "moved",
+            "strength": 0.6936264971974191,
+            "pstn": 3.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "opportunity",
+            "strength": 0.6936264971974191,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "course",
+            "strength": 0.6879555089524647,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "try",
+            "strength": 0.682498547463143,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "independence",
+            "strength": 0.682498547463143,
+            "pstn": 5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "follow",
+            "strength": 0.682498547463143,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "Davis",
+            "strength": 0.672260478301518,
+            "pstn": 2.0,
+            "pos": "PROPN"
+        },
+        {
+            "collocate": "am",
+            "strength": 0.672260478301518,
+            "pstn": 3.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "more",
+            "strength": 0.6379773812844364,
+            "pstn": 4.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "life",
+            "strength": 0.6379365622030118,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "use",
+            "strength": 0.63062075281299,
+            "pstn": 4.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "companies",
+            "strength": 0.63062075281299,
+            "pstn": 4.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "officers",
+            "strength": 0.63062075281299,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "necessary",
+            "strength": 0.63062075281299,
+            "pstn": 4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "organization",
+            "strength": 0.6236996792747456,
+            "pstn": 2.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "whose",
+            "strength": 0.6049282977251531,
+            "pstn": 5.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "real",
+            "strength": 0.6049282977251531,
+            "pstn": 1.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "small",
+            "strength": 0.5786923846377215,
+            "pstn": 3.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "however",
+            "strength": 0.5382888143727884,
+            "pstn": 2.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "do",
+            "strength": 0.5160443682523437,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "this",
+            "strength": 0.5103342327846678,
+            "pstn": 4.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "good",
+            "strength": 0.5103342327846678,
+            "pstn": 3.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": "between",
+            "strength": 0.5075710626566574,
+            "pstn": 4.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "have",
+            "strength": 0.49713493311390405,
+            "pstn": 1.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "cent",
+            "strength": 0.4970734347341224,
+            "pstn": 5.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "these",
+            "strength": 0.4945769014068273,
+            "pstn": 1.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "per",
+            "strength": 0.4921276000471149,
+            "pstn": 4.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "through",
+            "strength": 0.4897237647326293,
+            "pstn": 5.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "has",
+            "strength": 0.4805310252229558,
+            "pstn": 5.0,
+            "pos": "VERB"
+        },
+        {
+            "collocate": "when",
+            "strength": 0.4679362981872693,
+            "pstn": 4.5,
+            "pos": "SCONJ"
+        },
+        {
+            "collocate": "program",
+            "strength": 0.463895688015977,
+            "pstn": 3.0,
+            "pos": "NOUN"
+        },
+        {
+            "collocate": "that",
+            "strength": 0.45448591290935125,
+            "pstn": 5.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "only",
+            "strength": 0.45090465737020646,
+            "pstn": 1.0,
+            "pos": "ADV"
+        },
+        {
+            "collocate": "it",
+            "strength": 0.44778176964637756,
+            "pstn": 2.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "have",
+            "strength": 0.43679419187115615,
+            "pstn": 1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "would",
+            "strength": 0.4361044939735727,
+            "pstn": 2.3333333333333335,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "them",
+            "strength": 0.4155395505243525,
+            "pstn": 2.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "they",
+            "strength": 0.40284459216529683,
+            "pstn": 2.5,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "can",
+            "strength": 0.4002948995736086,
+            "pstn": 1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "their",
+            "strength": 0.3986410304476979,
+            "pstn": 2.5,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "than",
+            "strength": 0.3955827530423754,
+            "pstn": 4.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "into",
+            "strength": 0.3932885031125029,
+            "pstn": 4.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "more",
+            "strength": 0.38663624886981063,
+            "pstn": 4.0,
+            "pos": "ADJ"
+        },
+        {
+            "collocate": ":",
+            "strength": 0.35850028480777185,
+            "pstn": 5.0,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": "out",
+            "strength": 0.35335623292305274,
+            "pstn": 5.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "one",
+            "strength": 0.3475957504370271,
+            "pstn": 5.0,
+            "pos": "NUM"
+        },
+        {
+            "collocate": "be",
+            "strength": 0.3376963844098614,
+            "pstn": 2.6666666666666665,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "to",
+            "strength": 0.33402579141156813,
+            "pstn": 3.2857142857142856,
+            "pos": "PART"
+        },
+        {
+            "collocate": "been",
+            "strength": 0.31238649336499097,
+            "pstn": 2.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "I",
+            "strength": 0.30993051124361065,
+            "pstn": 2.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "$",
+            "strength": 0.309323416713474,
+            "pstn": 4.0,
+            "pos": "SYM"
+        },
+        {
+            "collocate": "were",
+            "strength": 0.3010977446480985,
+            "pstn": 2.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "not",
+            "strength": 0.28099110650707687,
+            "pstn": 4.0,
+            "pos": "PART"
+        },
+        {
+            "collocate": "to",
+            "strength": 0.27590633355634325,
+            "pstn": 3.2857142857142856,
+            "pos": "ADP"
+        },
+        {
+            "collocate": ",",
+            "strength": 0.27020182102736595,
+            "pstn": 2.411764705882353,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": "an",
+            "strength": 0.26830669243335037,
+            "pstn": 1.0,
+            "pos": "DET"
+        },
+        {
+            "collocate": "the",
+            "strength": 0.26102345109622516,
+            "pstn": 3.1176470588235294,
+            "pos": "DET"
+        },
+        {
+            "collocate": "is",
+            "strength": 0.24735678208428,
+            "pstn": 1.5,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "will",
+            "strength": 0.23212993775311938,
+            "pstn": 1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "a",
+            "strength": 0.2311010078630206,
+            "pstn": 2.4,
+            "pos": "DET"
+        },
+        {
+            "collocate": "his",
+            "strength": 0.22836542989145553,
+            "pstn": 2.0,
+            "pos": "PRON"
+        },
+        {
+            "collocate": "of",
+            "strength": 0.207887836275346,
+            "pstn": 3.6666666666666665,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "with",
+            "strength": 0.1866941253741194,
+            "pstn": 3.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "at",
+            "strength": 0.17522307252483166,
+            "pstn": 2.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": "on",
+            "strength": 0.16152502950971398,
+            "pstn": 4.0,
+            "pos": "ADP"
+        },
+        {
+            "collocate": ".",
+            "strength": 0.1601073500327309,
+            "pstn": 4.166666666666667,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": "was",
+            "strength": 0.15275676669806543,
+            "pstn": 1.0,
+            "pos": "AUX"
+        },
+        {
+            "collocate": "''",
+            "strength": 0.14870747591561925,
+            "pstn": 3.0,
+            "pos": "PUNCT"
+        },
+        {
+            "collocate": "and",
+            "strength": 0.09106999976977803,
+            "pstn": 4.0,
+            "pos": "CCONJ"
+        },
+        {
+            "collocate": "in",
+            "strength": 0.0,
+            "pstn": 3.0,
+            "pos": "ADP"
+        }
+    ]
+}
